@@ -1,0 +1,13 @@
+Qual eh a capital do Brasil?
+A) Sao Paulo
+B) Brasilia
+C) Rio de Janeiro
+D) Belo Horizonte
+B
+
+Quanto é 2 + 2?
+A) 3
+B) 5
+C) 4
+D) 22
+C
